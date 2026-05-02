@@ -1,4 +1,10 @@
 [
   "githobs",
-  "obsidian-git"
+  "obsidian-git",
+  "calendar",
+  "dataview",
+  "obsidian-kanban",
+  "obsidian-tasks-plugin",
+  "periodic-notes",
+  "readwise-official"
 ]
